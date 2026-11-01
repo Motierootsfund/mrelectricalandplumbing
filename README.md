@@ -14,7 +14,7 @@ Vercel will serve `index.html` automatically.
 
 ## Contact details used
 
-- 081 214 0657
+- 072 099 5093
 - 071 637 2553
 - Mrelectricalandplumbing@outlook.com
 - Pretoria, Johannesburg & surrounding areas
