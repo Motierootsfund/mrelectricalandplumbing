@@ -1,6 +1,6 @@
 # MR Electrical & Plumbing Solutions Website
 
-A responsive one-page company website for **MR Electrical & Plumbing Solutions (Pty) Ltd**, built with plain HTML, CSS and JavaScript so it can be deployed directly through GitHub + Vercel with no build step.
+A responsive one-page company website for **MR Electrical & Plumbing Solutions (Pty) Ltd**, built with plain HTML, CSS and JavaScript so it can be deployed directly through GitHub + Vercel with no framework setup.
 
 ## Deploy to Vercel via GitHub
 
@@ -14,8 +14,7 @@ Vercel will serve `index.html` automatically.
 
 ## Contact details used
 
-- 072 099 5093
-- 071 637 2553
+- 072 099 5095
 - Mrelectricalandplumbing@outlook.com
 - Pretoria, Johannesburg & surrounding areas
 
